@@ -1,0 +1,46 @@
+Week,Mean,Median,SD,MaxSentiment,MaxSong,MaxArtist,MinSentiment,MinSong,MinArtist
+2020-01-04,0.0181,0.0119,0.0471,0.3818,Blue Christmas,Elvis Presley,-0.0481,"You're A Mean One, Mr. Grinch",Thurl Ravenscroft
+2020-01-11,0.0073,0.0084,0.0225,0.0708,What If I Never Get Over You,Lady Antebellum,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-01-18,0.0077,0.0084,0.0225,0.0708,What If I Never Get Over You,Lady Antebellum,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-01-25,0.0079,0.0084,0.0224,0.0708,What If I Never Get Over You,Lady Antebellum,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-02-01,0.0086,0.0084,0.0206,0.07,Blinding Lights,The Weeknd,-0.0477,Dance Monkey,Tones And I
+2020-02-08,0.006999999999999999,0.0104,0.0223,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-02-15,0.0065,0.0084,0.022,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-02-22,0.0057,0.008,0.0228,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-02-29,0.0058,0.0078,0.0229,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-03-07,0.0056,0.0078,0.0226,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-03-14,0.0018,0.0,0.0244,0.07,Blinding Lights,The Weeknd,-0.1085,La Dificil,Bad Bunny
+2020-03-21,0.0019,0.0,0.0229,0.07,Blinding Lights,The Weeknd,-0.1085,La Dificil,Bad Bunny
+2020-03-28,0.0027,0.001,0.0239,0.07,Blinding Lights,The Weeknd,-0.1085,La Dificil,Bad Bunny
+2020-04-04,0.0021,0.0,0.0248,0.07,Blinding Lights,The Weeknd,-0.1085,La Dificil,Bad Bunny
+2020-04-11,0.0034,0.0,0.0242,0.07,Blinding Lights,The Weeknd,-0.1085,La Dificil,Bad Bunny
+2020-04-18,0.0038,0.0,0.0223,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-04-25,0.0041,0.0,0.0219,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-05-02,0.005,0.0048,0.022,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-05-09,0.0055,0.0064,0.0213,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-05-16,0.0051,0.0023,0.0209,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-05-23,0.0042,0.0,0.0205,0.07,Blinding Lights,The Weeknd,-0.0694,Slow Dance In A Parking Lot,Jordan Davis
+2020-05-30,0.0049,0.0036,0.0194,0.07,Blinding Lights,The Weeknd,-0.0477,Dance Monkey,Tones And I
+2020-06-06,0.0048,0.0056,0.0195,0.07,Blinding Lights,The Weeknd,-0.0477,Dance Monkey,Tones And I
+2020-06-13,0.005,0.006,0.0197,0.07,Blinding Lights,The Weeknd,-0.0477,Dance Monkey,Tones And I
+2020-06-20,0.0056,0.0073,0.0191,0.07,Blinding Lights,The Weeknd,-0.0477,Dance Monkey,Tones And I
+2020-06-27,0.0055,0.0068,0.0187,0.07,Blinding Lights,The Weeknd,-0.0447,Before You Go,Lewis Capaldi
+2020-07-04,0.0063,0.008,0.019,0.07,Blinding Lights,The Weeknd,-0.0447,Before You Go,Lewis Capaldi
+2020-07-11,0.0055,0.0073,0.0196,0.07,Blinding Lights,The Weeknd,-0.0447,Before You Go,Lewis Capaldi
+2020-07-18,0.0056,0.0059,0.019,0.07,Blinding Lights,The Weeknd,-0.0447,Before You Go,Lewis Capaldi
+2020-07-25,0.0045,0.0019,0.0199,0.07,Blinding Lights,The Weeknd,-0.0447,Before You Go,Lewis Capaldi
+2020-08-01,0.0047,0.0036,0.0219,0.0756,Breaking Me,Topic & A7S,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-08-08,0.0059,0.005,0.0226,0.0953,Epiphany,Taylor Swift,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-08-15,0.0082,0.0084,0.0232,0.0773,My Future,Billie Eilish,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-08-22,0.0067,0.0076,0.0234,0.0773,My Future,Billie Eilish,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-08-29,0.0056,0.0072,0.0242,0.0773,My Future,Billie Eilish,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-09-05,0.006999999999999999,0.0114,0.0265,0.0987,For The Night,Pop Smoke Featuring Lil Baby & DaBaby,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-09-12,0.0072,0.0114,0.024,0.0773,My Future,Billie Eilish,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-09-16,0.0073,0.0106,0.0244,0.0773,My Future,Billie Eilish,-0.0493,Popstar,DJ Khaled Featuring Drake
+2020-09-23,0.005,0.0079,0.0228,0.0756,Breaking Me,Topic & A7S,-0.07400000000000001,Caramelo,Ozuna x Karol G x Myke Towers
+2020-09-23,0.005,0.0079,0.0228,0.0756,Breaking Me,Topic & A7S,-0.07400000000000001,Caramelo,Ozuna x Karol G x Myke Towers
+2020-09-29,0.0055,0.0082,0.0229,0.0756,Breaking Me,Topic & A7S,-0.07400000000000001,Caramelo,Ozuna x Karol G x Myke Towers
+2020-09-30,0.0056,0.0089,0.023,0.0756,Breaking Me,Topic & A7S,-0.07400000000000001,Caramelo,Ozuna x Karol G x Myke Towers
+2020-10-07,0.0053,0.01,0.0245,0.0756,Breaking Me,Topic & A7S,-0.0752,"Ay, Dios Mio!",Karol G
+2020-10-14,0.0059,0.0079,0.0234,0.0756,Breaking Me,Topic & A7S,-0.07400000000000001,Caramelo,Ozuna x Karol G x Myke Towers
+2020-10-21,0.0062,0.0091,0.0232,0.0756,Breaking Me,Topic & A7S,-0.0493,Popstar,DJ Khaled Featuring Drake
